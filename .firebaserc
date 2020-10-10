@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "read-me-a-sam-harris-quote",
+    "quit": "read-me-a-sam-harris-quote",
+    "staging": "homepage-clone"
+  }
+}
